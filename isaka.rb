@@ -3,7 +3,6 @@ class Isaka < Formula
   desc "tail log for Apache Kafka"
   homepage "https://github.com/pyama86/isaka"
   version "0.0.4"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/pyama86/isaka/releases/download/v0.0.4/isaka_0.0.4_darwin_amd64.tar.gz"
